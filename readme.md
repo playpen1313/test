@@ -1,4 +1,4 @@
-initialize a git "something" -- git init
+create a git repo -- git init
 
 set a path to push updates to -- git remote add origin git@github".com/-playpen1313"(whatever the file name to the ssh key is)/"test"(repository).git
 
