@@ -1,6 +1,6 @@
 create a git repo -- git init
 
-set a path to push updates to -- git remote add origin git@github".com/-playpen1313"(whatever the file name to the ssh key is)/"test"(repository).git
+set a path to push updates to -- git remote add origin git@github".com/"test"(repository).git git@github-playpen1313:playpen1313/"test".git
 
 remove path to update -- git remote rm "origin"(this can be whatever name you want it to be, it's a placeholder)
 
